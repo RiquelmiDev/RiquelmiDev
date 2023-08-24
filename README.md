@@ -2,12 +2,12 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiquelmiDev&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
-   <img align="right" height="215" alt="coding-time" src="gif2.gif">
+   <img align="right" height="220" alt="coding-time" src="gif2.gif">
 </div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="230" alt="coding-time" src="gif1.gif">
+    <img align="left" height="220" alt="coding-time" src="gif1.gif">
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiquelmiDev&layout=compact&langs_count=16&theme=dark#gh-dark-mode-only"/>
   </div>
 </div>
