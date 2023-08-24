@@ -7,7 +7,8 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="200" alt="coding-time" src="gif1.gif">
+    <img align="left" height="230" alt="coding-time" src="gif1.gif">
+    <img align="right" height="230" alt="coding-time" src="gif2.gif">
   </div>
 </div>
 
