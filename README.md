@@ -1,8 +1,8 @@
 ## Opa Seja Bem Vindo!!
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=RiquelmiDev&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiquelmiDev&layout=compact&langs_count=16&theme=dark#gh-dark-mode-only"/>
+  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=RiquelmiDev&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true"/>
+  <img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiquelmiDev&layout=compact&langs_count=16&theme=dark#gh-dark-mode-only"/>
 </div>
 
 <div  align="center"> 
