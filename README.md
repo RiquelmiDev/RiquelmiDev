@@ -1,4 +1,4 @@
-<img src="/src/opaa.png"/>
+<img src="/src/oi.png"/>
 
  # Sobre Mim
  
