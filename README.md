@@ -37,7 +37,7 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=RiquelmiDev&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true" height="192px" width="49.5%"/>
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiquelmiDev&layout=compact&langs_count=16&theme=dark#gh-dark-mode-only" height="192px" width="49.5%"/>
     <br/>
-</a>
+  </a>
   
   <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RiquelmiDev&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
@@ -50,9 +50,9 @@
 
 <h2 align="center">Redes Sociais:</h2>
 <p align="center">
-<a href="https://twitter.com/fenixkw1" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/riquelmi-santos-41a514262/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="" height="30" width="40" /></a>
+ <a href="https://twitter.com/fenixkw1" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/riquelmi-santos-41a514262/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
+ <a href="your link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="" height="30" width="40" /></a>
 </p>
 
 
