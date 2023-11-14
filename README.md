@@ -1,4 +1,20 @@
-<img src="opaa.png"/>
+<img src="/src/opaa.png"/>
+
+ # Sobre Mim
+ 
+<p>
+ <img align="right" width="350" src="/src/Debbie Balboa.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Aprendendo coisas novas dia a dia <br/><br/>
+ ❤️ &emsp; Adoro escrever um código e vê-lo funcionar <br/><br/>
+ ☕ &emsp; Café é vida <br/><br/>
+ 💬 &emsp; Dicas? Digite [Aqui](https://github.com/RiquelmiDev/RiquelmiDev/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
 
 
 <h2 align="center">Uso para codar</h2>
