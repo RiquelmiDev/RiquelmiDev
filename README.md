@@ -55,7 +55,7 @@
 <p align="center">
  <a href="https://twitter.com/fenixkw1" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/riquelmi-santos-41a514262/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
- <a href="your link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="" height="30" width="40" /></a>
+ <a href="https://discord.gg/fYHDAzKu" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="" height="30" width="40" /></a>
 </p>
 
 
