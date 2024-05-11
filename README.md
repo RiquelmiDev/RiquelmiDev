@@ -8,7 +8,7 @@
  ✌️ &emsp; Aprendendo coisas novas dia a dia <br/><br/>
  ❤️ &emsp; Adoro escrever um código e vê-lo funcionar <br/><br/>
  ☕ &emsp; Café é vida <br/><br/>
- 🌐 &emsp; Meu [Website](...)<br/><br/>
+ 🌐 &emsp; Meu [Website](https://riquelmidev.github.io)<br/><br/>
  💬 &emsp; Dicas? Digite [Aqui](https://github.com/RiquelmiDev/RiquelmiDev/issues)
 
 </p>
@@ -22,6 +22,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Jquery](https://img.shields.io/badge/Jquery-E34F26?style=for-the-badge&logo=jquery&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
