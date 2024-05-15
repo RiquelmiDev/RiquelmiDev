@@ -8,7 +8,7 @@
  ✌️ &emsp; Aprendendo coisas novas dia a dia <br/><br/>
  ❤️ &emsp; Adoro escrever um código e vê-lo funcionar <br/><br/>
  ☕ &emsp; Café é vida <br/><br/>
- 🌐 &emsp; Meu [Website](https://riquelmidev.github.io)<br/><br/>
+ 🌐 &emsp; Meu [Website](https://riquelmidev.github.i)<br/><br/>
  💬 &emsp; Dicas? Digite [Aqui](https://github.com/RiquelmiDev/RiquelmiDev/issues)
 
 </p>
