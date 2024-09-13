@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2 align="center">Frameworks</h2>
+<h2 align="center">Frameworks e Bibliotecas</h2>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/Jquery-E34F26?style=for-the-badge&logo=jquery&logoColor=white)
