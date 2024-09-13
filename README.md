@@ -1,9 +1,9 @@
-<img src="/src/banner-readme-2.png"/>
+<img src="/src/banner-readme-2.png" alt="Banner de apresentação escrito: Opa eu sou o Riquelmi, Desenvolvedor Full Stack! " title="Banner de apresentação"/>
 
  # Sobre Mim
  
 <p>
- <img align="right" width="350" src="/src/Debbie Balboa.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/src/Debbie Balboa.gif" alt="Gif de um quarto com um descktop mostrando codigos" title="Gif de um quarto"/>
   
  ✌️ &emsp; Aprendendo coisas novas dia a dia <br/><br/>
  ❤️ &emsp; Adoro escrever um código e vê-lo funcionar <br/><br/>
