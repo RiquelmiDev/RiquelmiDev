@@ -1,4 +1,4 @@
-<img src="/src/oi.png"/>
+<img src="/src/banner-readme.png"/>
 
  # Sobre Mim
  
