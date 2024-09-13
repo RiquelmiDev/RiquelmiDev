@@ -1,7 +1,8 @@
 <img src="/src/banner-readme-2.png" alt="Banner de apresentação escrito: Opa eu sou o Riquelmi, Desenvolvedor Full Stack! " title="Banner de apresentação"/>
 
  # Sobre Mim
- 
+
+<br>
 <p>
  <img align="right" width="350" src="/src/Debbie Balboa.gif" alt="Gif de um quarto com um descktop mostrando codigos" title="Gif de um quarto"/>
   
@@ -13,7 +14,7 @@
 
 </p>
 
-
+<br>
 
 
 <h2 align="center">Conhecimentos</h2>
@@ -29,6 +30,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<br>
+
 <h2 align="center">Frameworks e Bibliotecas</h2>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -37,6 +40,7 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-64b5f6?style=for-the-badge&logo=electron&logoColor=white)
 
+<br>
 
 <h2 align="center">IDEs</h2>
 
