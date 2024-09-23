@@ -50,7 +50,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
-<br/>
+<br>
 
 <h2 align="center">Status Github</h2>
 
@@ -77,5 +77,7 @@
  <a href="https://discord.gg/fYHDAzKu" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="" height="30" width="40" /></a>
 </p>
 
-
-
+<br>
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=RiquelmiDev&abbreviated=true"></img>
+</div>
