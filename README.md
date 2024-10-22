@@ -12,9 +12,6 @@
  🌐 &emsp; Meu [Website](https://riquelmidev.github.io)<br/><br/>
  💬 &emsp; Dicas? Digite [Aqui](https://github.com/RiquelmiDev/RiquelmiDev/issues)
 
-</
-p>
-
 <br>
 
 
