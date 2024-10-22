@@ -12,7 +12,8 @@
  🌐 &emsp; Meu [Website](https://riquelmidev.github.io)<br/><br/>
  💬 &emsp; Dicas? Digite [Aqui](https://github.com/RiquelmiDev/RiquelmiDev/issues)
 
-</p>
+</
+p>
 
 <br>
 
@@ -47,7 +48,6 @@
 <h2 align="center">IDEs</h2>
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
